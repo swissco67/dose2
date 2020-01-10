@@ -1,0 +1,222 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- Translated from Fastrad 3.9.4.21781 the 2019/11/26 at 20h43 -->
+<gdml xmlns:gdml="http://cern.ch/2001/Schemas/GDML" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://service-spi.web.cern.ch/service-spi/app/releases/GDML/schema/gdml.xsd">
+	<define>
+		<constant name="HALFPI" value="pi/2.0"/>
+		<constant name="PI" value="1.0*pi"/>
+		<constant name="TWOPI" value="2.0*pi"/>
+		<position name="center"/>
+		<rotation name="identity"/>
+	</define>
+
+	<materials>
+		<element name="videRef" formula="VACUUM" Z="1">
+			<atom value="1"/>
+		</element>
+		<element name="silicon" formula="Si" Z="14">
+			<atom value="28.0855"/>
+		</element>
+		<element name="nickel" formula="Ni" Z="28">
+			<atom value="58.6934"/>
+		</element>
+		<element name="iron" formula="Fe" Z="26">
+			<atom value="55.845"/>
+		</element>
+		<element name="carbon" formula="C" Z="6">
+			<atom value="12.0107"/>
+		</element>
+		<element name="oxygen" formula="O" Z="8">
+			<atom value="15.9994"/>
+		</element>
+		<element name="phosphorus" formula="P" Z="15">
+			<atom value="30.97376"/>
+		</element>
+		<element name="sulfur" formula="S" Z="16">
+			<atom value="32.065"/>
+		</element>
+		<element name="chromium" formula="Cr" Z="24">
+			<atom value="51.9961"/>
+		</element>
+		<element name="manganese" formula="Mn" Z="25">
+			<atom value="54.938045"/>
+		</element>
+		<element name="molybdenum" formula="Mo" Z="42">
+			<atom value="95.96"/>
+		</element>
+		<element name="aluminum" formula="Al" Z="13">
+			<atom value="26.981539"/>
+		</element>
+		<element name="hydrogen" formula="H" Z="1">
+			<atom value="1.00794"/>
+		</element>
+		<element name="nitrogen" formula="N" Z="7">
+			<atom value="14.007"/>
+		</element>
+		<element name="titanium" formula="Ti" Z="22">
+			<atom value="47.867"/>
+		</element>
+		<element name="vanadium" formula="V" Z="23">
+			<atom value="50.9415"/>
+		</element>
+		<element name="copper" formula="Cu" Z="29">
+			<atom value="63.546"/>
+		</element>
+		<element name="zinc" formula="Zn" Z="30">
+			<atom value="65.38"/>
+		</element>
+		<element name="lead" formula="Pb" Z="82">
+			<atom value="207.2"/>
+		</element>
+		<material name="VACUUM" formula="VACUUM">
+			<D value ="1E-25" unit="g/cm3"/>
+			<fraction n="1.0" ref="videRef"/>
+		</material>
+		<material name="SILICON" formula="SILICON">
+			<D value ="2.33" unit="g/cm3"/>
+			<fraction n="1." ref="silicon"/>
+		</material>
+		<material name="NICKEL_IRON__INVAR_" formula="NICKEL_IRON__INVAR_">
+			<D value ="8.1" unit="g/cm3"/>
+			<fraction n="0.36" ref="nickel"/>
+			<fraction n="0.64" ref="iron"/>
+		</material>
+		<material name="SIC" formula="SIC">
+			<D value ="3." unit="g/cm3"/>
+			<fraction n="0.299547" ref="carbon"/>
+			<fraction n="0.700453" ref="silicon"/>
+		</material>
+		<material name="FUSED_SILICA" formula="FUSED_SILICA">
+			<D value ="2.2" unit="g/cm3"/>
+			<fraction n="0.532565" ref="oxygen"/>
+			<fraction n="0.467435" ref="silicon"/>
+		</material>
+		<material name="STEEL_STAINLESS_316" formula="STEEL_STAINLESS_316">
+			<D value ="8." unit="g/cm3"/>
+			<fraction n="0.00041" ref="carbon"/>
+			<fraction n="0.00507" ref="silicon"/>
+			<fraction n="0.00023" ref="phosphorus"/>
+			<fraction n="0.00015" ref="sulfur"/>
+			<fraction n="0.17" ref="chromium"/>
+			<fraction n="0.01014" ref="manganese"/>
+			<fraction n="0.669" ref="iron"/>
+			<fraction n="0.12" ref="nickel"/>
+			<fraction n="0.025" ref="molybdenum"/>
+		</material>
+		<material name="ALUMINIUM_ALLOY_6061_T651" formula="ALUMINIUM_ALLOY_6061_T651">
+			<D value ="2.7" unit="g/cm3"/>
+			<fraction n="1." ref="aluminum"/>
+		</material>
+		<material name="TITANIUM_ALLOY_GRADE_5" formula="TITANIUM_ALLOY_GRADE_5">
+			<D value ="4.43" unit="g/cm3"/>
+			<fraction n="0.00011" ref="hydrogen"/>
+			<fraction n="0.00057" ref="carbon"/>
+			<fraction n="0.00021" ref="nitrogen"/>
+			<fraction n="0.00141" ref="oxygen"/>
+			<fraction n="0.06125" ref="aluminum"/>
+			<fraction n="0.89363" ref="titanium"/>
+			<fraction n="0.04" ref="vanadium"/>
+			<fraction n="0.00283" ref="iron"/>
+		</material>
+		<material name="KAPTON_FILM" formula="KAPTON_FILM">
+			<D value ="1.42" unit="g/cm3"/>
+			<fraction n="0.026362" ref="hydrogen"/>
+			<fraction n="0.691133" ref="carbon"/>
+			<fraction n="0.07327" ref="nitrogen"/>
+			<fraction n="0.209235" ref="oxygen"/>
+		</material>
+		<material name="POLYIMIDE" formula="POLYIMIDE">
+			<D value ="1.42" unit="g/cm3"/>
+			<fraction n="0.02636" ref="hydrogen"/>
+			<fraction n="0.69113" ref="carbon"/>
+			<fraction n="0.07733" ref="nitrogen"/>
+			<fraction n="0.20518" ref="oxygen"/>
+		</material>
+		<material name="STEEL_STAINLESS_409" formula="STEEL_STAINLESS_409">
+			<D value ="7.8" unit="g/cm3"/>
+			<fraction n="0.00079" ref="carbon"/>
+			<fraction n="0.00983" ref="silicon"/>
+			<fraction n="0.00044" ref="phosphorus"/>
+			<fraction n="0.00044" ref="sulfur"/>
+			<fraction n="0.00737" ref="titanium"/>
+			<fraction n="0.1113" ref="chromium"/>
+			<fraction n="0.00983" ref="manganese"/>
+			<fraction n="0.86" ref="iron"/>
+		</material>
+		<material name="MOLYBDENUM" formula="MOLYBDENUM">
+			<D value ="10.22" unit="g/cm3"/>
+			<fraction n="1." ref="molybdenum"/>
+		</material>
+		<material name="BRASS" formula="BRASS">
+			<D value ="8.489" unit="g/cm3"/>
+			<fraction n="0.615" ref="copper"/>
+			<fraction n="0.3524" ref="zinc"/>
+			<fraction n="0.03252" ref="lead"/>
+		</material>
+		<material name="POLYBUTYLENE_TEREPHTHALATE" formula="POLYBUTYLENE_TEREPHTHALATE">
+			<D value ="1.31" unit="g/cm3"/>
+			<fraction n="0.054923" ref="hydrogen"/>
+			<fraction n="0.654471" ref="carbon"/>
+			<fraction n="0.290606" ref="oxygen"/>
+		</material>
+		<material name="RYTON" formula="RYTON">
+			<D value ="1.44" unit="g/cm3"/>
+			<fraction n="0.037276" ref="hydrogen"/>
+			<fraction n="0.666268" ref="carbon"/>
+			<fraction n="0.296456" ref="sulfur"/>
+		</material>
+	</materials>
+
+	<solids>
+		<sphere name="__World__SphereRef" rmin="0." rmax="1200.0" startphi="0." deltaphi="TWOPI" starttheta="0." deltatheta="PI"/>
+		<box name="Box0x__1672822877184" x="10." y="10." z="10."/>
+		<tube name="CylinderX0x__1672822878336" rmin="0." rmax="70." z="20." startphi="0." deltaphi="TWOPI"/>
+		<box name="Box0x__1672822877760" x="480." y="460." z="20."/>
+		<tube name="CylinderX0x__1672822879632" rmin="110." rmax="120." z="610." startphi="0." deltaphi="TWOPI"/>
+	</solids>
+
+	<structure>
+		<volume name="Tracker0x__1672821581568__vol">
+			<materialref ref="SILICON"/>
+			<solidref ref="Box0x__1672822877184"/>
+			<auxiliary auxtype="SensitiveVolume" auxvalue="true"/>
+		</volume>
+		<volume name="Lens0x__1672821587024__vol">
+			<materialref ref="FUSED_SILICA"/>
+			<solidref ref="CylinderX0x__1672822878336"/>
+		</volume>
+		<volume name="Platform0x__1672821582272__vol">
+			<materialref ref="ALUMINIUM_ALLOY_6061_T651"/>
+			<solidref ref="Box0x__1672822877760"/>
+		</volume>
+		<volume name="Telescope0x__1672821584912__vol">
+			<materialref ref="ALUMINIUM_ALLOY_6061_T651"/>
+			<solidref ref="CylinderX0x__1672822879632"/>
+		</volume>
+		<volume name="Structure">
+			<materialref ref="VACUUM"/>
+			<solidref ref="__World__SphereRef"/>
+			<physvol name="Tracker0x__1672821581568">
+				<volumeref ref="Tracker0x__1672821581568__vol"/>
+				<position name="posRef_Tracker0x__1672821581568" x="-210."/>
+			</physvol>
+			<physvol name="Lens0x__1672821587024">
+				<volumeref ref="Lens0x__1672821587024__vol"/>
+				<position name="posRef_Lens0x__1672821587024" x="-200."/>
+				<rotation name="rotRef_Lens0x__1672821587024" x="-1.57079632679489656" y="-1.57079632679489656"/>
+			</physvol>
+			<physvol name="Platform0x__1672821582272">
+				<volumeref ref="Platform0x__1672821582272__vol"/>
+				<position name="posRef_Platform0x__1672821582272" x="-310."/>
+				<rotation name="rotRef_Platform0x__1672821582272" y="-1.57079632679489656"/>
+			</physvol>
+			<physvol name="Telescope0x__1672821584912">
+				<volumeref ref="Telescope0x__1672821584912__vol"/>
+				<rotation name="rotRef_Telescope0x__1672821584912" x="-1.57079632679489656" y="-1.57079632679489656"/>
+			</physvol>
+		</volume>
+	</structure>
+
+	<setup name="Setup" version="1.0">
+		<world ref="Structure"/>
+	</setup>
+</gdml>
