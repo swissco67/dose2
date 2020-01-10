@@ -2,7 +2,6 @@
 /// \brief Implementation of the B1EventAction class
 
 #include "B1EventAction.hh"
-#include "B1RunAction.hh"
 #include "B1Run.hh"
 
 #include "G4Event.hh"
@@ -10,7 +9,7 @@
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
-B1EventAction::B1EventAction(B1RunAction* runAction)
+B1EventAction::B1EventAction()
 : G4UserEventAction(),
   fPrintModulo(100),
   fEdep(0.)
