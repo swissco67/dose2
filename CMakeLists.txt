@@ -43,14 +43,8 @@ target_link_libraries(b1dose ${Geant4_LIBRARIES})
 # relies on these scripts being in the current working directory.
 #
 set(B1DOSE_SCRIPTS
-  init_vis.mac physics.mac 
-  primary.mac primary1.mac primary2.mac primary3.mac
-  proton_wac.mac electron_wac.mac
-  run1.mac jht1.mac jht2.mac jht3.mac
-  wac_0p55d_1000p_1000e.mac nac.mac
-  run2.mac
-  vis.mac
-  jht1.gdml jht2.gdml
+  init_vis.mac vis.mac physics.mac 
+  model.gdml run.mac primary2.mac
   )
 
 foreach(_script ${B1DOSE_SCRIPTS})
