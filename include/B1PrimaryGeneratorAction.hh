@@ -11,15 +11,13 @@ class G4Event;
 class G4GeneralParticleSource;
 class B1PrimaryGeneratorAction : public G4VUserPrimaryGeneratorAction
 {
-  public:
-    B1PrimaryGeneratorAction();
-    ~B1PrimaryGeneratorAction();
-  
-    void GeneratePrimaries(G4Event* anEvent);
-    // method to access particle gun
-    const G4GeneralParticleSource* GetParticleSource() const { return gun; }
-  
-  private:  
-    G4GeneralParticleSource* gun;
+public:
+B1PrimaryGeneratorAction();
+~B1PrimaryGeneratorAction();
+
+void GeneratePrimaries(G4Event* anEvent);
+
+private:  
+G4GeneralParticleSource* gun;
 };
 #endif
