@@ -1,0 +1,2675 @@
+
+Usage: b1dose intput_gdml_file Sensitive_Volume <macro optional>
+
+G4GDML: Reading 'WAC_R1.gdml'...
+G4GDML: Reading definitions...
+G4GDML: Reading materials...
+G4GDML: Reading solids...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-0.397928,-12.5154,45.8084)
+P1 = (0,-12.25,46)
+P2 = (-0.795856,-12.7808,45.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-0.397928,-12.5154,45.8084)
+P[1]      = (0,-12.25,46)
+P[2]      = (-0.795856,-12.7808,45.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,46)
+P1 = (0.397928,-12.5154,45.8084)
+P2 = (0.795856,-12.7808,45.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,46)
+P[1]      = (0.397928,-12.5154,45.8084)
+P[2]      = (0.795856,-12.7808,45.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,46)
+P1 = (-0.397928,-12.5154,46.1916)
+P2 = (-0.795856,-12.7808,46.3833)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,46)
+P[1]      = (-0.397928,-12.5154,46.1916)
+P[2]      = (-0.795856,-12.7808,46.3833)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (45.8084,-12.5154,0.397928)
+P1 = (46,-12.25,0)
+P2 = (45.6167,-12.7808,0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (45.8084,-12.5154,0.397928)
+P[1]      = (46,-12.25,0)
+P[2]      = (45.6167,-12.7808,0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (46,-12.25,0)
+P1 = (45.8084,-12.5154,-0.397928)
+P2 = (45.6167,-12.7808,-0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (46,-12.25,0)
+P[1]      = (45.8084,-12.5154,-0.397928)
+P[2]      = (45.6167,-12.7808,-0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (46,-12.25,0)
+P1 = (46.1916,-12.5154,0.397928)
+P2 = (46.3833,-12.7808,0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (46,-12.25,0)
+P[1]      = (46.1916,-12.5154,0.397928)
+P[2]      = (46.3833,-12.7808,0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0.397928,-12.5154,-45.8084)
+P1 = (0,-12.25,-46)
+P2 = (0.795856,-12.7808,-45.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0.397928,-12.5154,-45.8084)
+P[1]      = (0,-12.25,-46)
+P[2]      = (0.795856,-12.7808,-45.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,-46)
+P1 = (-0.397928,-12.5154,-45.8084)
+P2 = (-0.795856,-12.7808,-45.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,-46)
+P[1]      = (-0.397928,-12.5154,-45.8084)
+P[2]      = (-0.795856,-12.7808,-45.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,-46)
+P1 = (0.397928,-12.5154,-46.1916)
+P2 = (0.795856,-12.7808,-46.3833)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,-46)
+P[1]      = (0.397928,-12.5154,-46.1916)
+P[2]      = (0.795856,-12.7808,-46.3833)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-45.8084,-12.5154,-0.397928)
+P1 = (-46,-12.25,0)
+P2 = (-45.6167,-12.7808,-0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-45.8084,-12.5154,-0.397928)
+P[1]      = (-46,-12.25,0)
+P[2]      = (-45.6167,-12.7808,-0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-46,-12.25,0)
+P1 = (-45.8084,-12.5154,0.397928)
+P2 = (-45.6167,-12.7808,0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-46,-12.25,0)
+P[1]      = (-45.8084,-12.5154,0.397928)
+P[2]      = (-45.6167,-12.7808,0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-46,-12.25,0)
+P1 = (-46.1916,-12.5154,-0.397928)
+P2 = (-46.3833,-12.7808,-0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-46,-12.25,0)
+P[1]      = (-46.1916,-12.5154,-0.397928)
+P[2]      = (-46.3833,-12.7808,-0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-0.397928,-12.5154,55.8084)
+P1 = (0,-12.25,56)
+P2 = (-0.795856,-12.7808,55.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-0.397928,-12.5154,55.8084)
+P[1]      = (0,-12.25,56)
+P[2]      = (-0.795856,-12.7808,55.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,56)
+P1 = (0.397928,-12.5154,55.8084)
+P2 = (0.795856,-12.7808,55.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,56)
+P[1]      = (0.397928,-12.5154,55.8084)
+P[2]      = (0.795856,-12.7808,55.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,56)
+P1 = (-0.397928,-12.5154,56.1916)
+P2 = (-0.795856,-12.7808,56.3833)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,56)
+P[1]      = (-0.397928,-12.5154,56.1916)
+P[2]      = (-0.795856,-12.7808,56.3833)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (55.8084,-12.5154,0.397928)
+P1 = (56,-12.25,0)
+P2 = (55.6167,-12.7808,0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (55.8084,-12.5154,0.397928)
+P[1]      = (56,-12.25,0)
+P[2]      = (55.6167,-12.7808,0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (56,-12.25,0)
+P1 = (55.8084,-12.5154,-0.397928)
+P2 = (55.6167,-12.7808,-0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (56,-12.25,0)
+P[1]      = (55.8084,-12.5154,-0.397928)
+P[2]      = (55.6167,-12.7808,-0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (56,-12.25,0)
+P1 = (56.1916,-12.5154,0.397928)
+P2 = (56.3833,-12.7808,0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (56,-12.25,0)
+P[1]      = (56.1916,-12.5154,0.397928)
+P[2]      = (56.3833,-12.7808,0.795856)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0.397928,-12.5154,-55.8084)
+P1 = (0,-12.25,-56)
+P2 = (0.795856,-12.7808,-55.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 1.03053
+Side3 length (P2->P0) = 0.515263
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0.397928,-12.5154,-55.8084)
+P[1]      = (0,-12.25,-56)
+P[2]      = (0.795856,-12.7808,-55.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,-56)
+P1 = (-0.397928,-12.5154,-55.8084)
+P2 = (-0.795856,-12.7808,-55.6167)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,-56)
+P[1]      = (-0.397928,-12.5154,-55.8084)
+P[2]      = (-0.795856,-12.7808,-55.6167)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (0,-12.25,-56)
+P1 = (0.397928,-12.5154,-56.1916)
+P2 = (0.795856,-12.7808,-56.3833)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (0,-12.25,-56)
+P[1]      = (0.397928,-12.5154,-56.1916)
+P[2]      = (0.795856,-12.7808,-56.3833)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-56,-12.25,0)
+P1 = (-55.8084,-12.5154,0.397928)
+P2 = (-55.6167,-12.7808,0.795856)
+Side1 length (P0->P1) = 0.515263
+Side2 length (P1->P2) = 0.515263
+Side3 length (P2->P0) = 1.03053
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-56,-12.25,0)
+P[1]      = (-55.8084,-12.5154,0.397928)
+P[2]      = (-55.6167,-12.7808,0.795856)
+*********************************************************************
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-92.7,-6.92,37.5)
+P1 = (-92.8723,-7.15864,37.1422)
+P2 = (-93.0446,-7.39728,36.7843)
+Side1 length (P0->P1) = 0.463347
+Side2 length (P1->P2) = 0.463347
+Side3 length (P2->P0) = 0.926695
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-92.7,-6.92,37.5)
+P[1]      = (-92.8723,-7.15864,37.1422)
+P[2]      = (-93.0446,-7.39728,36.7843)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-92.8723,-7.15864,0.357835)
+P1 = (-92.7,-6.92,0)
+P2 = (-93.0446,-7.39728,0.71567)
+Side1 length (P0->P1) = 0.463348
+Side2 length (P1->P2) = 0.926696
+Side3 length (P2->P0) = 0.463348
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-92.8723,-7.15864,0.357835)
+P[1]      = (-92.7,-6.92,0)
+P[2]      = (-93.0446,-7.39728,0.71567)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-92.7,-6.92,0)
+P1 = (-92.8723,-7.15864,-0.357835)
+P2 = (-93.0446,-7.39728,-0.71567)
+Side1 length (P0->P1) = 0.463348
+Side2 length (P1->P2) = 0.463348
+Side3 length (P2->P0) = 0.926696
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-92.7,-6.92,0)
+P[1]      = (-92.8723,-7.15864,-0.357835)
+P[2]      = (-93.0446,-7.39728,-0.71567)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-92.7,-6.92,-37.5)
+P1 = (-92.8723,-7.15864,-37.8578)
+P2 = (-93.0446,-7.39728,-38.2157)
+Side1 length (P0->P1) = 0.463347
+Side2 length (P1->P2) = 0.463347
+Side3 length (P2->P0) = 0.926695
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-92.7,-6.92,-37.5)
+P[1]      = (-92.8723,-7.15864,-37.8578)
+P[2]      = (-93.0446,-7.39728,-38.2157)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (92.8723,-7.15864,37.1422)
+P1 = (92.7,-6.92,37.5)
+P2 = (93.0446,-7.39728,36.7843)
+Side1 length (P0->P1) = 0.463347
+Side2 length (P1->P2) = 0.926695
+Side3 length (P2->P0) = 0.463347
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (92.8723,-7.15864,37.1422)
+P[1]      = (92.7,-6.92,37.5)
+P[2]      = (93.0446,-7.39728,36.7843)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (92.8723,-7.15864,-0.357835)
+P1 = (92.7,-6.92,0)
+P2 = (93.0446,-7.39728,-0.71567)
+Side1 length (P0->P1) = 0.463348
+Side2 length (P1->P2) = 0.926696
+Side3 length (P2->P0) = 0.463348
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (92.8723,-7.15864,-0.357835)
+P[1]      = (92.7,-6.92,0)
+P[2]      = (93.0446,-7.39728,-0.71567)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (92.7,-6.92,0)
+P1 = (92.8723,-7.15864,0.357835)
+P2 = (93.0446,-7.39728,0.71567)
+Side1 length (P0->P1) = 0.463348
+Side2 length (P1->P2) = 0.463348
+Side3 length (P2->P0) = 0.926696
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (92.7,-6.92,0)
+P[1]      = (92.8723,-7.15864,0.357835)
+P[2]      = (93.0446,-7.39728,0.71567)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (92.8723,-7.15864,-37.8578)
+P1 = (92.7,-6.92,-37.5)
+P2 = (93.0446,-7.39728,-38.2157)
+Side1 length (P0->P1) = 0.463347
+Side2 length (P1->P2) = 0.926695
+Side3 length (P2->P0) = 0.463347
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (92.8723,-7.15864,-37.8578)
+P[1]      = (92.7,-6.92,-37.5)
+P[2]      = (93.0446,-7.39728,-38.2157)
+*********************************************************************
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-5.07461,-10.2411,13.4067)
+P1 = (-4.75927,-10.0308,13.5585)
+P2 = (-4.44393,-9.82052,13.7104)
+Side1 length (P0->P1) = 0.408322
+Side2 length (P1->P2) = 0.408322
+Side3 length (P2->P0) = 0.816644
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-5.07461,-10.2411,13.4067)
+P[1]      = (-4.75927,-10.0308,13.5585)
+P[2]      = (-4.44393,-9.82052,13.7104)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-4.75927,-10.0308,13.2548)
+P1 = (-5.07461,-10.2411,13.4067)
+P2 = (-4.44393,-9.82052,13.103)
+Side1 length (P0->P1) = 0.408322
+Side2 length (P1->P2) = 0.816644
+Side3 length (P2->P0) = 0.408322
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-4.75927,-10.0308,13.2548)
+P[1]      = (-5.07461,-10.2411,13.4067)
+P[2]      = (-4.44393,-9.82052,13.103)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (4.75927,-10.0308,13.5585)
+P1 = (5.07461,-10.2411,13.4067)
+P2 = (4.44393,-9.82052,13.7104)
+Side1 length (P0->P1) = 0.408322
+Side2 length (P1->P2) = 0.816644
+Side3 length (P2->P0) = 0.408322
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (4.75927,-10.0308,13.5585)
+P[1]      = (5.07461,-10.2411,13.4067)
+P[2]      = (4.44393,-9.82052,13.7104)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (5.07461,-10.2411,13.4067)
+P1 = (4.75927,-10.0308,13.2548)
+P2 = (4.44393,-9.82052,13.103)
+Side1 length (P0->P1) = 0.408322
+Side2 length (P1->P2) = 0.408322
+Side3 length (P2->P0) = 0.816644
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (5.07461,-10.2411,13.4067)
+P[1]      = (4.75927,-10.0308,13.2548)
+P[2]      = (4.44393,-9.82052,13.103)
+*********************************************************************
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-1.67331,-15.7345,0.519414)
+P1 = (-1.95049,-15.9126,0.624229)
+P2 = (-2.22767,-16.0906,0.729045)
+Side1 length (P0->P1) = 0.345712
+Side2 length (P1->P2) = 0.345712
+Side3 length (P2->P0) = 0.691424
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-1.67331,-15.7345,0.519414)
+P[1]      = (-1.95049,-15.9126,0.624229)
+P[2]      = (-2.22767,-16.0906,0.729045)
+*********************************************************************
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (1.95049,-15.9126,0.624229)
+P1 = (1.67331,-15.7345,0.519414)
+P2 = (2.22767,-16.0906,0.729045)
+Side1 length (P0->P1) = 0.345712
+Side2 length (P1->P2) = 0.691424
+Side3 length (P2->P0) = 0.345712
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (1.95049,-15.9126,0.624229)
+P[1]      = (1.67331,-15.7345,0.519414)
+P[2]      = (2.22767,-16.0906,0.729045)
+*********************************************************************
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (16.0655,-0.437606,3.04004)
+P1 = (16.3058,-0.553322,2.88606)
+P2 = (16.1856,-0.495464,2.96305)
+Side1 length (P0->P1) = 0.307958
+Side2 length (P1->P2) = 0.153979
+Side3 length (P2->P0) = 0.153979
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (16.0655,-0.437606,3.04004)
+P[1]      = (16.3058,-0.553322,2.88606)
+P[2]      = (16.1856,-0.495464,2.96305)
+*********************************************************************
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (16.0655,-0.437606,3.04004)
+P1 = (16.3058,-0.553322,2.88606)
+P2 = (16.1856,-0.495464,2.96305)
+Side1 length (P0->P1) = 0.307958
+Side2 length (P1->P2) = 0.153979
+Side3 length (P2->P0) = 0.153979
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (16.0655,-0.437606,3.04004)
+P[1]      = (16.3058,-0.553322,2.88606)
+P[2]      = (16.1856,-0.495464,2.96305)
+*********************************************************************
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (16.0655,-0.437606,3.04004)
+P1 = (16.3058,-0.553322,2.88606)
+P2 = (16.1856,-0.495464,2.96305)
+Side1 length (P0->P1) = 0.307958
+Side2 length (P1->P2) = 0.153979
+Side3 length (P2->P0) = 0.153979
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (16.0655,-0.437606,3.04004)
+P[1]      = (16.3058,-0.553322,2.88606)
+P[2]      = (16.1856,-0.495464,2.96305)
+*********************************************************************
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (-19.7759,-1.15803,-4.83911)
+P1 = (-19.89,-1,-4.60216)
+P2 = (-19.6618,-1.31605,-5.07607)
+Side1 length (P0->P1) = 0.306824
+Side2 length (P1->P2) = 0.613649
+Side3 length (P2->P0) = 0.306824
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (-19.7759,-1.15803,-4.83911)
+P[1]      = (-19.89,-1,-4.60216)
+P[2]      = (-19.6618,-1.31605,-5.07607)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (20.1141,-1.15803,-4.83911)
+P1 = (20,-1,-4.60216)
+P2 = (20.2282,-1.31605,-5.07607)
+Side1 length (P0->P1) = 0.306824
+Side2 length (P1->P2) = 0.613649
+Side3 length (P2->P0) = 0.306824
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (20.1141,-1.15803,-4.83911)
+P[1]      = (20,-1,-4.60216)
+P[2]      = (20.2282,-1.31605,-5.07607)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (20,-1,-4.60216)
+P1 = (19.8859,-1.15803,-4.83911)
+P2 = (19.7718,-1.31605,-5.07607)
+Side1 length (P0->P1) = 0.306824
+Side2 length (P1->P2) = 0.306824
+Side3 length (P2->P0) = 0.613649
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (20,-1,-4.60216)
+P[1]      = (19.8859,-1.15803,-4.83911)
+P[2]      = (19.7718,-1.31605,-5.07607)
+*********************************************************************
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (81.7998,-0.457692,-10.6725)
+P1 = (81.4946,0,-10.4521)
+P2 = (82.1051,-0.915384,-10.8929)
+Side1 length (P0->P1) = 0.59265
+Side2 length (P1->P2) = 1.1853
+Side3 length (P2->P0) = 0.59265
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (81.7998,-0.457692,-10.6725)
+P[1]      = (81.4946,0,-10.4521)
+P[2]      = (82.1051,-0.915384,-10.8929)
+*********************************************************************
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1001
+      issued by : G4TriangularFacet::G4TriangularFacet()
+Facet is too small or too narrow.
+Triangle area = 0
+P0 = (81.4946,0,-10.4521)
+P1 = (81.7998,0.457692,-10.6725)
+P2 = (82.1051,0.915384,-10.8929)
+Side1 length (P0->P1) = 0.59265
+Side2 length (P1->P2) = 0.59265
+Side3 length (P2->P0) = 1.1853
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+-------- WWWW ------- G4Exception-START -------- WWWW -------
+
+*** ExceptionHandler is not defined ***
+*** G4Exception : GeomSolids1002
+      issued by : G4TessellatedSolid::AddFacet()
+Attempt to add facet not properly defined.
+*** This is just a warning message. ***
+-------- WWWW ------- G4Exception-END -------- WWWW -------
+
+
+*********************************************************************
+FACET TYPE       = G4TriangularFacet
+ABSOLUTE VECTORS = 
+P[0]      = (81.4946,0,-10.4521)
+P[1]      = (81.7998,0.457692,-10.6725)
+P[2]      = (82.1051,0.915384,-10.8929)
+*********************************************************************
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading definitions...
+G4GDML: Reading structure...
+G4GDML: Reading setup...
+G4GDML: Reading 'WAC_R1.gdml' done!
+Stripping off GDML names of materials, solids and volumes ...
+
+**************************************************************
+ Geant4 version Name: geant4-10-06 [MT]   (6-December-2019)
+  << in Multi-threaded mode >> 
+                       Copyright : Geant4 Collaboration
+                      References : NIM A 506 (2003), 250-303
+                                 : IEEE-TNS 53 (2006), 270-278
+                                 : NIM A 835 (2016), 186-225
+                             WWW : http://geant4.org/
+**************************************************************
+
+batch mode ApplyCommand: /control/execute wac_3p70d_1000000e10000s.mac
+THE FOLLOWING ELECTROMAGNETIC PHYSICS LIST HAS BEEN ACTIVATED: G4EmLivermorePhysics
+THE FOLLOWING HADRONIC INELASTIC PHYSICS LIST HAS BEEN ACTIVATED: HadronPhysicsQGSP_BIC_HP()
+THE FOLLOWING HADRONIC INELASTIC PHYSICS LIST HAS BEEN ACTIVATED: G4IonBinaryCascadePhysics()
+THE FOLLOWING HADRONIC INELASTIC PHYSICS LIST HAS BEEN ACTIVATED: G4RadioactiveDecayPhysics()
+Command line declaration of Sensitive Volume Tracker
+Found 1 volume(s) with auxiliary information.
+
+Volume Tracker has the following list of auxiliary information: 
+
+--> Type: SensitiveVolume Value: true
+Scoring Volume set to Tracker
+
+### G4EmConfigurator::AddModels n= 0
+/opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6
+@@@ G4ParticleHPInelastic instantiated for particle neutron data directory variable is G4NEUTRONHPDATA pointing to /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Inelastic
+@@@ G4ParticleHPInelasticData instantiated for particle neutron data directory variable is G4NEUTRONHPDATA pointing to /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6
+NeutronHP: /Capture file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Inelastic file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Inelastic/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Capture/CrossSection/73_181_Tantalum
+NeutronHP: /Elastic file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Elastic/CrossSection/73_181_Tantalum
+NeutronHP: /Inelastic file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Inelastic/CrossSection/73_181_Tantalum
+PhysicsList::SetCuts:CutLength : 10 nm 
+
+### ===  Deexcitation model UAtomDeexcitation is activated for 1 region:
+          DefaultRegionForTheWorld  1  1  0
+### ===  Auger cascade flag: 1
+### ===  Ignore cuts flag:   1
+
+phot:  for gamma SubType=12 BuildTable=0
+      LambdaPrime table from 200 keV to 100 TeV in 174 bins 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+ LivermorePhElectric : Emin=    0 eV  Emax=  100 TeV  SauterGavrila Fluo
+
+compt:  for gamma SubType=13 BuildTable=1
+      Lambda table from 100 eV  to 1 MeV, 20 bins/decade, spline: 1
+      LambdaPrime table from 1 MeV to 100 TeV in 160 bins 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+    LivermoreCompton : Emin=    0 eV  Emax=    1 GeV Fluo
+        KleinNishina : Emin=    1 GeV Emax=  100 TeV Fluo
+
+conv:  for gamma SubType=14 BuildTable=1
+      Lambda table from 1.022 MeV to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+      BetheHeitler5D : Emin=    0 eV  Emax=  100 TeV  ModifiedTsai
+
+Rayl:  for gamma SubType=11 BuildTable=1
+      Lambda table from 100 eV  to 100 keV, 20 bins/decade, spline: 0
+      LambdaPrime table from 100 keV to 100 TeV in 180 bins 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+   LivermoreRayleigh : Emin=    0 eV  Emax=  100 TeV  CullenGenerator
+
+msc:  for e-  SubType= 10
+      RangeFactor= 0.08, stepLimType: 2, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  GoudsmitSaunderson : Emin=    0 eV  Emax=  100 MeV Nbins=120 100 eV  - 100 MeV
+        WentzelVIUni : Emin=  100 MeV Emax=  100 TeV Nbins=120 100 MeV - 100 TeV
+
+eIoni:  for e-  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.01 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+       LowEnergyIoni : Emin=    0 eV  Emax=  100 keV  deltaVI
+        MollerBhabha : Emin=  100 keV Emax=  100 TeV  deltaVI
+
+eBrem:  for e-  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      LPM flag: 1 for E > 1 GeV,  VertexHighEnergyTh(GeV)= 100000
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+             eBremSB : Emin=    0 eV  Emax=    1 GeV  AngularGen2BS
+            eBremLPM : Emin=    1 GeV Emax=  100 TeV  AngularGen2BS
+
+ePairProd:  for e-  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 25x1001; from 0.1 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           ePairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for e-, integral:1  SubType=1 BuildTable=1
+      Lambda table from 100 MeV to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=  100 MeV Emax=  100 TeV
+
+msc:  for e+  SubType= 10
+      RangeFactor= 0.08, stepLimType: 2, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  GoudsmitSaunderson : Emin=    0 eV  Emax=  100 MeV Nbins=120 100 eV  - 100 MeV
+        WentzelVIUni : Emin=  100 MeV Emax=  100 TeV Nbins=120 100 MeV - 100 TeV
+
+eIoni:  for e+  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.01 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        MollerBhabha : Emin=    0 eV  Emax=  100 TeV  deltaVI
+
+eBrem:  for e+  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      LPM flag: 1 for E > 1 GeV,  VertexHighEnergyTh(GeV)= 100000
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+             eBremSB : Emin=    0 eV  Emax=    1 GeV  AngularGen2BS
+            eBremLPM : Emin=    1 GeV Emax=  100 TeV  AngularGen2BS
+
+ePairProd:  for e+  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 25x1001; from 0.1 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           ePairProd : Emin=    0 eV  Emax=  100 TeV
+
+annihil:  for e+, integral:1  SubType=5 BuildTable=0
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            eplus2gg : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for e+, integral:1  SubType=1 BuildTable=1
+      Lambda table from 100 MeV to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=  100 MeV Emax=  100 TeV
+
+msc:  for proton  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+hIoni:  for proton  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               Bragg : Emin=    0 eV  Emax=    2 MeV  deltaVI
+          BetheBloch : Emin=    2 MeV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+hBrems:  for proton  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               hBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+hPairProd:  for proton  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 17x1001; from 7.50618 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           hPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for proton, integral:1  SubType=1 BuildTable=1
+      Lambda table from threshold  to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+msc:  for GenericIon  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 0
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            UrbanMsc : Emin=    0 eV  Emax=  100 TeV
+
+ionIoni:  for GenericIon  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.1, 0.001 mm), integ: 1, fluct: 1, linLossLim= 0.02
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+         ParamICRU73 : Emin=    0 eV  Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+nuclearStopping:  for GenericIon SubType=8 BuildTable=0
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+   ICRU49NucStopping : Emin=    0 eV  Emax=    1 MeV
+======================================================================
+======          Radioactive Decay Physics Parameters           =======
+======================================================================
+Max life time                                     1.4427e+06 ps
+Internal e- conversion flag                       1
+Stored internal conversion coefficients           1
+Enable correlated gamma emission                  0
+Max 2J for sampling of angular correlations       10
+Atomic de-excitation enabled                      1
+Auger electron emission enabled                   1
+Auger cascade enabled                             1
+Check EM cuts disabled for atomic de-excitation   1
+Use Bearden atomic level energies                 0
+======================================================================
+
+msc:  for alpha  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            UrbanMsc : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+ionIoni:  for alpha  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.02
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            BraggIon : Emin=    0 eV  Emax=7.9452 MeV  deltaVI
+          BetheBloch : Emin=7.9452 MeV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+nuclearStopping:  for alpha SubType=8 BuildTable=0
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+   ICRU49NucStopping : Emin=    0 eV  Emax=    1 MeV
+
+msc:  for anti_proton  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+hIoni:  for anti_proton  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            ICRU73QO : Emin=    0 eV  Emax=    2 MeV  deltaVI
+          BetheBloch : Emin=    2 MeV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+hBrems:  for anti_proton  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               hBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+hPairProd:  for anti_proton  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 17x1001; from 7.50618 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           hPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for anti_proton, integral:1  SubType=1 BuildTable=1
+      Lambda table from threshold  to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+msc:  for kaon+  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+hIoni:  for kaon+  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               Bragg : Emin=    0 eV  Emax=1.05231 MeV  deltaVI
+          BetheBloch : Emin=1.05231 MeV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+hBrems:  for kaon+  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               hBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+hPairProd:  for kaon+  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 18x1001; from 3.94942 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           hPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for kaon+, integral:1  SubType=1 BuildTable=1
+      Lambda table from threshold  to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+msc:  for kaon-  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+hIoni:  for kaon-  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            ICRU73QO : Emin=    0 eV  Emax=1.05231 MeV  deltaVI
+          BetheBloch : Emin=1.05231 MeV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+hBrems:  for kaon-  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               hBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+hPairProd:  for kaon-  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 18x1001; from 3.94942 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           hPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for kaon-, integral:1  SubType=1 BuildTable=1
+      Used Lambda table of kaon+
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+msc:  for mu+  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1, polarAngLim(deg)= 180
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+muIoni:  for mu+  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               Bragg : Emin=    0 eV  Emax=  200 keV  deltaVI
+          BetheBloch : Emin=  200 keV Emax=    1 GeV  deltaVI
+        MuBetheBloch : Emin=    1 GeV Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+muBrems:  for mu+  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+              MuBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+muPairProd:  for mu+  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 21x1001; from 1 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+          muPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for mu+, integral:1  SubType=1 BuildTable=1
+      Lambda table from threshold  to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+msc:  for mu-  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1, polarAngLim(deg)= 180
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+muIoni:  for mu-  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            ICRU73QO : Emin=    0 eV  Emax=  200 keV  deltaVI
+          BetheBloch : Emin=  200 keV Emax=    1 GeV  deltaVI
+        MuBetheBloch : Emin=    1 GeV Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+muBrems:  for mu-  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+              MuBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+muPairProd:  for mu-  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 21x1001; from 1 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+          muPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for mu-, integral:1  SubType=1 BuildTable=1
+      Used Lambda table of mu+
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+NeutronHP: /Capture file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Inelastic file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Inelastic/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Capture/CrossSection/73_181_Tantalum
+NeutronHP: /Elastic file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Elastic/CrossSection/73_181_Tantalum
+NeutronHP: /Inelastic file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Inelastic/CrossSection/73_181_Tantalum
+NeutronHP: /Elastic file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Elastic/CrossSection/6_nat_Carbon
+NeutronHP: /Elastic file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Elastic/CrossSection/73_181_Tantalum
+@@@ G4ParticleHPInelastic instantiated for particle neutron data directory variable is G4NEUTRONHPDATA pointing to /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Inelastic
+NeutronHP: /Capture file for Z = 6, A = 12 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Capture/CrossSection/6_nat_Carbon
+NeutronHP: /Capture file for Z = 73, A = 180 is not found and NeutronHP will use /opt/applications/geant4/geant4.10.06-install/share/Geant4-10.6.0/data/G4NDL4.6/Capture/CrossSection/73_181_Tantalum
+
+msc:  for pi+  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+hIoni:  for pi+  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               Bragg : Emin=    0 eV  Emax=297.505 keV  deltaVI
+          BetheBloch : Emin=297.505 keV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+hBrems:  for pi+  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               hBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+hPairProd:  for pi+  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 20x1001; from 1.11656 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           hPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for pi+, integral:1  SubType=1 BuildTable=1
+      Lambda table from threshold  to 100 TeV, 20 bins/decade, spline: 1
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+msc:  for pi-  SubType= 10
+      RangeFactor= 0.2, stepLimType: 0, latDisp: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+        WentzelVIUni : Emin=    0 eV  Emax=  100 TeV Nbins=240 100 eV  - 100 TeV
+
+hIoni:  for pi-  SubType=2
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      StepFunction=(0.2, 0.05 mm), integ: 1, fluct: 1, linLossLim= 0.01
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+            ICRU73QO : Emin=    0 eV  Emax=297.505 keV  deltaVI
+          BetheBloch : Emin=297.505 keV Emax=  100 TeV  deltaVI
+      ===== Limit on energy threshold has been applied 
+
+hBrems:  for pi-  SubType=3
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+               hBrem : Emin=    0 eV  Emax=  100 TeV
+      ===== Limit on energy threshold has been applied 
+
+hPairProd:  for pi-  SubType=4
+      dE/dx and range tables from 100 eV  to 100 TeV in 240 bins
+      Lambda tables from threshold to 100 TeV, 20 bins/decade, spline: 1
+      Sampling table 20x1001; from 1.11656 GeV to 100 TeV 
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+           hPairProd : Emin=    0 eV  Emax=  100 TeV
+
+CoulombScat:  for pi-, integral:1  SubType=1 BuildTable=1
+      Used Lambda table of pi+
+      ThetaMin(p) < Theta(degree) < 180; pLimit(GeV^1)= 0.139531
+      ===== EM models for the G4Region  DefaultRegionForTheWorld ======
+  eCoulombScattering : Emin=    0 eV  Emax=  100 TeV
+
+====================================================================
+                  HADRONIC PROCESSES SUMMARY (verbose level 1)
+
+---------------------------------------------------
+                           Hadronic Processes for GenericIon
+
+  Process: ionInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 6 GeV/n
+        Model:                      FTFP: 3 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+  Process: RadioactiveDecayBase
+
+---------------------------------------------------
+                           Hadronic Processes for He3
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+  Process: He3Inelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 6 GeV/n
+        Model:                      FTFP: 3 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for alpha
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+  Process: alphaInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 6 GeV/n
+        Model:                      FTFP: 3 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_He3
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+  Process: anti_He3Inelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_alpha
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+  Process: anti_alphaInelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_deuteron
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+  Process: anti_deuteronInelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_neutron
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100.1 MeV
+        Model:              AntiAElastic: 100 MeV ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+  Process: anti_neutronInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_proton
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100.1 MeV
+        Model:              AntiAElastic: 100 MeV ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+  Process: anti_protonInelastic
+        Model:                      FTFP: 0 eV  ---> 100 TeV
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for anti_triton
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100.1 MeV/n
+        Model:              AntiAElastic: 100 MeV/n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+  Process: anti_tritonInelastic
+        Model:                      FTFP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:              AntiAGlauber: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for deuteron
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+  Process: dInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 6 GeV/n
+        Model:                      FTFP: 3 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for kaon+
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+
+  Process: kaon+Inelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 3 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for kaon-
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+
+  Process: kaon-Inelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 3 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for lambda
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV  ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+
+  Process: lambdaInelastic
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+        Model:                      FTFP: 3 GeV ---> 100 TeV
+     Cr_sctns:            Glauber-Gribov: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for neutron
+
+  Process: hadElastic
+        Model:             hElasticCHIPS: 19.5 MeV ---> 100 TeV
+        Model:          NeutronHPElastic: 0 eV  ---> 20 MeV
+     Cr_sctns:        NeutronHPElasticXS: 0 eV  ---> 20 MeV
+     Cr_sctns:        G4NeutronElasticXS: 0 eV  ---> 100 TeV
+
+  Process: neutronInelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 3 GeV ---> 25 GeV
+        Model:            Binary Cascade: 19.9 MeV ---> 6 GeV
+        Model:        NeutronHPInelastic: 0 eV  ---> 20 MeV
+     Cr_sctns:      NeutronHPInelasticXS: 0 eV  ---> 20 MeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+  Process: nCapture
+        Model:          NeutronHPCapture: 0 eV  ---> 20 MeV
+        Model:               nRadCapture: 19.9 MeV ---> 100 TeV
+     Cr_sctns:        NeutronHPCaptureXS: 0 eV  ---> 20 MeV
+     Cr_sctns:        G4NeutronCaptureXS: 0 eV  ---> 100 TeV
+
+  Process: nFission
+        Model:          NeutronHPFission: 0 eV  ---> 20 MeV
+        Model:                G4LFission: 19.9 MeV ---> 100 TeV
+     Cr_sctns:        NeutronHPFissionXS: 0 eV  ---> 20 MeV
+     Cr_sctns:          GheishaFissionXS: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for pi+
+
+  Process: hadElastic
+        Model:           hElasticGlauber: 0 eV  ---> 100 TeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+  Process: pi+Inelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 3 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for pi-
+
+  Process: hadElastic
+        Model:           hElasticGlauber: 0 eV  ---> 100 TeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+  Process: pi-Inelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 3 GeV ---> 25 GeV
+        Model:            BertiniCascade: 0 eV  ---> 6 GeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for proton
+
+  Process: hadElastic
+        Model:             hElasticCHIPS: 0 eV  ---> 100 TeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+  Process: protonInelastic
+        Model:                      QGSP: 12 GeV ---> 100 TeV
+        Model:                      FTFP: 3 GeV ---> 25 GeV
+        Model:            Binary Cascade: 0 eV  ---> 6 GeV
+     Cr_sctns:  BarashenkovGlauberGribov: 0 eV  ---> 100 TeV
+
+---------------------------------------------------
+                           Hadronic Processes for triton
+
+  Process: hadElastic
+        Model:              hElasticLHEP: 0 eV /n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+  Process: tInelastic
+        Model:  Binary Light Ion Cascade: 0 eV /n ---> 6 GeV/n
+        Model:                      FTFP: 3 GeV/n ---> 100 TeV/n
+     Cr_sctns:  Glauber-Gribov Nucl-nucl: 0 eV  ---> 100 TeV
+
+================================================================
+=======================================================================
+======       Pre-compound/De-excitation Physics Parameters     ========
+=======================================================================
+Type of pre-compound inverse x-section              3
+Pre-compound model active                           1
+Pre-compound excitation low energy (MeV)            0.1
+Pre-compound excitation high energy (MeV)           30
+Type of de-excitation inverse x-section             3
+Type of de-excitation factory                       Evaporation+GEM
+Number of de-excitation channels                    68
+Min excitation energy (keV)                         0.01
+Min energy per nucleon for multifragmentation (MeV) 2e+05
+Limit excitation energy for Fermi BreakUp (MeV)     20
+Level density (1/MeV)                               0.075
+Use simple level density model                      1
+Use discrete excitation energy of the residual      0
+Time limit for long lived isomeres (ns)             1442.7
+Internal e- conversion flag                         1
+Store e- internal conversion data                   1
+Electron internal conversion ID                     0
+Correlated gamma emission flag                      0
+Max 2J for sampling of angular correlations         10
+Upload data before 1st event for                Z < 9
+=======================================================================
+
+========= Table of registered couples ==============================
+
+Index : 0     used in the geometry : Yes
+ Material : VACUUM
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 1     used in the geometry : Yes
+ Material : ALUMINUM_ALLOY_6061_O
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 2     used in the geometry : Yes
+ Material : FUSED_SILICA
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 3     used in the geometry : Yes
+ Material : LF5G15
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 4     used in the geometry : Yes
+ Material : TITANIUM_ALLOY_GRADE_5
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 5     used in the geometry : Yes
+ Material : CALCIUM_FLUORIDE
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 6     used in the geometry : Yes
+ Material : STEEL_STAINLESS_304
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 7     used in the geometry : Yes
+ Material : GLASS_SCHOTT_BK7G18
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 8     used in the geometry : Yes
+ Material : NITRONIC_60
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 9     used in the geometry : Yes
+ Material : POLYIMIDE
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 10     used in the geometry : Yes
+ Material : MOLYBDENUM
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 11     used in the geometry : Yes
+ Material : ALUMINUM_ALLOY_7075_O
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 12     used in the geometry : Yes
+ Material : POLYBUTYLENE_TEREPHTHALATE
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 13     used in the geometry : Yes
+ Material : BRASS
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 14     used in the geometry : Yes
+ Material : RYTON
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 15     used in the geometry : Yes
+ Material : ALUMINUM
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 16     used in the geometry : Yes
+ Material : SILICON
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+Index : 17     used in the geometry : Yes
+ Material : TANTALUM
+ Range cuts        :  gamma  10 nm     e-  10 nm     e+  10 nm  proton 10 nm 
+ Energy thresholds :  gamma  250 eV     e-  250 eV     e+  250 eV  proton 1 eV 
+ Region(s) which use this couple : 
+    DefaultRegionForTheWorld
+
+====================================================================
+
+### Run 0 start.
+G4WT2 > ### Run 0 start.
+G4WT3 > ### Run 0 start.
+G4WT1 > ### Run 0 start.
+G4WT2 > 
+---> Begin of event: 0
+G4WT0 > ### Run 0 start.
+G4WT1 > 
+---> Begin of event: 10000
+G4WT1 > 
+---> Begin of event: 20000
+G4WT1 > 
+---> Begin of event: 30000
+G4WT1 > 
+---> Begin of event: 40000
+G4WT1 > 
+---> Begin of event: 50000
+G4WT2 > 
+---> Begin of event: 60000
+G4WT1 > 
+---> Begin of event: 70000
+G4WT1 > 
+---> Begin of event: 80000
+G4WT1 > 
+---> Begin of event: 90000
+G4WT1 > 
+---> Begin of event: 100000
+G4WT1 > 
+---> Begin of event: 110000
+G4WT1 > 
+---> Begin of event: 120000
+G4WT1 > 
+---> Begin of event: 130000
+G4WT1 > 
+---> Begin of event: 140000
+G4WT0 > 
+---> Begin of event: 150000
+G4WT0 > 
+---> Begin of event: 160000
+G4WT0 > 
+---> Begin of event: 170000
+G4WT1 > 
+---> Begin of event: 180000
+G4WT1 > 
+---> Begin of event: 190000
+G4WT1 > 
+---> Begin of event: 200000
+G4WT1 > 
+---> Begin of event: 210000
+G4WT0 > 
+---> Begin of event: 220000
+G4WT1 > 
+---> Begin of event: 230000
+G4WT1 > 
+---> Begin of event: 240000
+G4WT1 > 
+---> Begin of event: 250000
+G4WT1 > 
+---> Begin of event: 260000
+G4WT1 > 
+---> Begin of event: 270000
+G4WT1 > 
+---> Begin of event: 280000
+G4WT1 > 
+---> Begin of event: 290000
+G4WT1 > 
+---> Begin of event: 300000
+G4WT1 > 
+---> Begin of event: 310000
+G4WT1 > 
+---> Begin of event: 320000
+G4WT1 > 
+---> Begin of event: 330000
+G4WT0 > 
+---> Begin of event: 340000
+G4WT1 > 
+---> Begin of event: 350000
+G4WT1 > 
+---> Begin of event: 360000
+G4WT1 > 
+---> Begin of event: 370000
+G4WT1 > 
+---> Begin of event: 380000
+G4WT1 > 
+---> Begin of event: 390000
+G4WT1 > 
+---> Begin of event: 400000
+G4WT1 > 
+---> Begin of event: 410000
+G4WT1 > 
+---> Begin of event: 420000
+G4WT1 > 
+---> Begin of event: 430000
+G4WT1 > 
+---> Begin of event: 440000
+G4WT1 > 
+---> Begin of event: 450000
+G4WT1 > 
+---> Begin of event: 460000
+G4WT1 > 
+---> Begin of event: 470000
+G4WT1 > 
+---> Begin of event: 480000
+G4WT1 > 
+---> Begin of event: 490000
+G4WT1 > 
+---> Begin of event: 500000
+G4WT1 > 
+---> Begin of event: 510000
+G4WT1 > 
+---> Begin of event: 520000
+G4WT1 > 
+---> Begin of event: 530000
+G4WT1 > 
+---> Begin of event: 540000
+G4WT1 > 
+---> Begin of event: 550000
+G4WT1 > 
+---> Begin of event: 560000
+G4WT1 > 
+---> Begin of event: 570000
+G4WT1 > 
+---> Begin of event: 580000
+G4WT0 > 
+---> Begin of event: 590000
+G4WT0 > 
+---> Begin of event: 600000
+G4WT3 > 
+---> Begin of event: 610000
+G4WT0 > 
+---> Begin of event: 620000
+G4WT3 > 
+---> Begin of event: 630000
+G4WT3 > 
+---> Begin of event: 640000
+G4WT2 > 
+---> Begin of event: 650000
+G4WT3 > 
+---> Begin of event: 660000
+G4WT0 > 
+---> Begin of event: 670000
+G4WT0 > 
+---> Begin of event: 680000
+G4WT0 > 
+---> Begin of event: 690000
+G4WT2 > 
+---> Begin of event: 700000
+G4WT3 > 
+---> Begin of event: 710000
+G4WT1 > 
+---> Begin of event: 720000
+G4WT3 > 
+---> Begin of event: 730000
+G4WT1 > 
+---> Begin of event: 740000
+G4WT2 > 
+---> Begin of event: 750000
+G4WT3 > 
+---> Begin of event: 760000
+G4WT2 > 
+---> Begin of event: 770000
+G4WT1 > 
+---> Begin of event: 780000
+G4WT3 > 
+---> Begin of event: 790000
+G4WT2 > 
+---> Begin of event: 800000
+G4WT2 > 
+---> Begin of event: 810000
+G4WT3 > 
+---> Begin of event: 820000
+G4WT1 > 
+---> Begin of event: 830000

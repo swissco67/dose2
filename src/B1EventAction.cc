@@ -11,9 +11,9 @@
 
 B1EventAction::B1EventAction()
 : G4UserEventAction(),
-  fPrintModulo(100),
+  fPrintModulo(10000),
   fEdep(0.)
-{} 
+{}                    
 
 //....oooOO0OOooo........oooOO0OOooo........oooOO0OOooo........oooOO0OOooo......
 
